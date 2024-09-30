@@ -2,11 +2,7 @@
 Una plantilla para programación en Swift usando GitHub Codespaces.
 
 ## Instrucciones
-#### En el teléfono móvil:
-Desde la [versión web de VS Code](https://vscode.dev), primero debes crear un codespace nuevo y buscar esta plantilla, ` 27labs/codespaces-swift `, cuando te pida el repositorio a clonar. Y luego, seguir con los "***Primeros Pasos***" cuando ya estés conectado.
-
-#### En la computadora:
-Primero debes clickear en "***Use this template*** > ***Open in a codespace***", y luego seguir con los "***Primeros Pasos***" cuando ya estés conectado.
+Después de iniciar sesión en GitHub, debes clickear en "***Use this template*** > ***Open in a codespace***", y luego seguir con los "***Primeros Pasos***" cuando ya estés conectado.
 
 También podrías directamente clonar el repositorio, pero el script de instalación de Swift está hecho para correr en la configuración predeterminada de GitHub Codespaces.
 
